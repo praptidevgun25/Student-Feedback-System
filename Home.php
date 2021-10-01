@@ -9,6 +9,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true){
 
 ?>
 
+//Home Page
 <!DOCTYPE html>
 
 <head>
